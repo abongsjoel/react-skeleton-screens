@@ -9,7 +9,7 @@ I started by creating two components, an Article component that shows a list of 
 
 ## Live Demo 
 
-- [Visit Page](https://abongsjoel.github.io/Newsweek-clone/.)
+- [Visit Page](https://react-skeleton-screens-nine.vercel.app/)
 
 ## Built With
 
