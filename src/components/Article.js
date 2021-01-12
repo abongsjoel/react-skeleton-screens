@@ -23,7 +23,7 @@ const Article = () => {
         </div>
       ))}
 
-      {!articles && [1,2,3,4,5].map(n => <SkeletonArticle key={n} />)}
+      {!articles && [1,2,3,4,5].map(n => <SkeletonArticle key={n} theme="dark" />)}
     </div>
   );
 }
