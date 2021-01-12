@@ -1,3 +1,45 @@
+# React Skeleton Screens
+
+> In this project, i created a reusable skeleton screen using Reactjs with React Hooks
+
+![screenshot](../features/screenshot.png)
+
+
+## Live Demo 
+
+- [Visit Page](https://abongsjoel.github.io/Newsweek-clone/.)
+
+## Built With
+
+- Reactjs
+
+
+## Author
+
+👤 **Chi A. Joel**
+
+- GitHub: [@abongsjoel](https://github.com/abongsjoel)
+- Twitter: [@thierryjoel10](https://twitter.com/ThierryJoel10)
+- LinkedIn: [Chi Abongwa Joel](https://www.linkedin.com/in/chi-abongwa-joel-b4285a97/)
+
+
+## Acknowledgments
+
+- [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+
+
+## Show your support
+<p> Give a 
+  <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji>
+  if you like this project!</p>
+
+## License
+  <p>This project is <a href="../features/LICENSE">MIT</a> licensed.</p>
+
+
+
+## React Specific
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
