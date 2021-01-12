@@ -2,7 +2,7 @@
 
 > In this project, i created a reusable skeleton screen using Reactjs with React Hooks
 
-![screenshot](../features/screenshot.png)
+![screenshot](../main/screenshot.png)
 
 
 ## Live Demo 
