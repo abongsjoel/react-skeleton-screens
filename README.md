@@ -4,7 +4,7 @@
 
 ![screenshot](../main/screenshot.png)
 
-I started by creating two components, an Article component that shows a list of articles from jsonplaceholder.js using fetch and a User component that shows some basic information about the user that created the articles. I then created a SkeletonElements component that creates the basics for the different skeleton screens using css. I used the SketetonElements component to create a SkeletonArticle and SkeletonProfile component to represent the Article and Profile components respectively. I then rounded up by creating a dark and a light theme for the skeletons and adding some animation to it.
+I started by creating two components, an Article component that shows a list of articles from http://jsonplaceholder.typicode.com/ using fetch and a User component that shows some basic information about the user that created the articles. I then created a SkeletonElements component that creates the basics for the different skeleton screens using css. I used the SketetonElements component to create a SkeletonArticle and SkeletonProfile component to represent the Article and Profile components respectively. I then rounded up by creating a dark and a light theme for the skeletons and adding some animation to it.
 
 
 ## Live Demo 
