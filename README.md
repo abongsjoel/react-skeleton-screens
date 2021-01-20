@@ -31,6 +31,13 @@ I started by creating two components, an Article component that shows a list of 
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
 
 
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/abongsjoel/react-skeleton-screens/issues).
+
+
 ## Show your support
 <p> Give a 
   <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"><img class="emoji" alt="star" height="20" width="20" src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png"></g-emoji>
