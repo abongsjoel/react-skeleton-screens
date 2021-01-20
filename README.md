@@ -44,7 +44,7 @@ Feel free to check the [issues page](https://github.com/abongsjoel/react-skeleto
   if you like this project!</p>
 
 ## License
-  <p>This project is <a href="../features/LICENSE">MIT</a> licensed.</p>
+  <p>This project is <a href="../main/LICENSE">MIT</a> licensed.</p>
 
 
 
